@@ -15,6 +15,7 @@ A simple startup script to run code-server with --link on a VM, designed to run 
 
 - SSH or use the built-in console to connect to your workspace
 
+
   1. Check the code-server status
 
      ```console
