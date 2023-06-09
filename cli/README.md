@@ -1,6 +1,12 @@
-# dcs-cli
+# deploy-code-server cli
 
 Provision a code-server instance from your terminal.
+
+## Instructions
+
+```sh
+npx @coder/deploy-code-server
+```
 
 ## Development
 
@@ -10,5 +16,6 @@ cd deploy-code-server/cli
 npm install && npm run build:watch
 
 # in another session:
-node bin/index.js
+cd deploy-code-server/cli
+node bin/src/index.js
 ```
