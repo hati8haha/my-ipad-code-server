@@ -13,7 +13,8 @@ A simple startup script to run code-server with --link on a VM, designed to run 
 
 - Ensure you have port 80 open on your server's firewall
 
-- SSH or use the built-in console to connect to your machine
+- SSH or use the built-in console to connect to your workspace
+
 
   1. Check the code-server status
 
